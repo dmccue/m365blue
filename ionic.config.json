@@ -1,0 +1,7 @@
+{
+  "name": "m365blue",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
